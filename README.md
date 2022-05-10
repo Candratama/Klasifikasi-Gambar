@@ -1,2 +1,2 @@
 # Klasifikasi-Gambar
-Klasifikasi gambar tangan (gunting/batu/kertas)
+Project ini merupakan Submission di Dicoding Academy
